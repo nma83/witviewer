@@ -2,6 +2,6 @@
 
 Show digital waveforms in ASCII art.
 
-* Written in [Nim](http://nim-lang.org)
-* Uses the [CDK library](http://invisible-island.net/cdk/)
+* Written in Haskell!
+* Should use the CDK (on ncurses)
 
